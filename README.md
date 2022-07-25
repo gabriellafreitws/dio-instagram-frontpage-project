@@ -1,2 +1,3 @@
-# projeto-instagram-frontpage-dio
-Projeto de criação da frontpage do instagram, adaptado pra pc e mobile. <br> https://gabriellafreitws.github.io/projeto-instagram-frontpage-dio/
+# ✨ PROJETO INSTAGRAM FRONTPAGE DIO ✨
+> Projeto de criação da frontpage do instagram. <br> <br>
+**Link para visualização: https://gabriellafreitws.github.io/projeto-instagram-frontpage-dio/ 💗**
